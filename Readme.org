@@ -1,11 +1,3 @@
-#+TITLE: 仙苑編珠 / HFL
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-29 00:15:59.653636
-* 版本
- |       HFL|【正統道藏・涵芬樓版】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5b0301_000.txt][仙苑編珠 0]]
- - [[file:KR5b0301_001.txt][仙苑編珠 1]]
- - [[file:KR5b0301_002.txt][仙苑編珠 2]]
- - [[file:KR5b0301_003.txt][仙苑編珠 3]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
